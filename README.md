@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2404-most-frequent-even-element](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
