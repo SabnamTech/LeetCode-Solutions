@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SabnamTech/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
